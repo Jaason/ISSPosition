@@ -1,5 +1,7 @@
 ## International Space Station - Simple React Native Application showing current position of ISS
 
+App available on [Google Play](https://play.google.com/store/apps/details?id=com.isspos).
+
 ### Usage instructions:
 1. Download or clone app
 2. [Generate new API Key](https://developers.google.com/maps/documentation/android-api/)
@@ -7,6 +9,7 @@
  >android\app\src\main\AndroidManifest.xml
 
    find and overwrite "PUT_YOUR_API_KEY_HERE" with generated key
+
 4. Install dependecies:
 ```
 npm install
